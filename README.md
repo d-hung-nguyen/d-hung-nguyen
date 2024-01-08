@@ -1,5 +1,3 @@
-Welcome to [Your Username]'s GitHub Page! 🚀
-
 Hey there! 👋 I'm Hung, a Sales & Marketing professional from Frankfurt am Main. I love exploring new technologies, drill down into and create useful workflows so to contribute  to my organization.
 
 <a href="https://ibb.co/HgWZ1CQ"><img src="https://i.ibb.co/nkHpZBS/Screenshot-2024-01-08-at-16-41-45.png" alt="Screenshot-2024-01-08-at-16-41-45" border="0"></a>
