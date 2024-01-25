@@ -28,7 +28,7 @@ I'm a passionate hotelier with expertise in Sales & Marketing, Revenue Managemen
 
 ## 🌱 **Currently Learning**
 
-| **Shell**            | **HTML**               | **CSS**                | **JavaScript**           | **Backend**          | **Tools**           | **React (latest)**      | **Further Teaching Contents**   |
+##| **Shell**            | **HTML**               | **CSS**                | **JavaScript**           | **Backend**          | **Tools**           | **React (latest)**      | **Further Teaching Contents**   |
 |----------------------|------------------------|------------------------|---------------------------|----------------------|---------------------|--------------------------|-----------------------------|
 | Unix Commands        | Semantic Elements      | Selectors              | ECMAScript (latest)       | Node.js              | VSCode              | Function Components      | Clean Code                  |
 | Git                  | Forms and Inputs       | Specificity            | Events                    | RESTful APIs         | Slack               | Hooks                    | Pair Programming            |
@@ -43,7 +43,7 @@ I'm a passionate hotelier with expertise in Sales & Marketing, Revenue Managemen
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=prs&theme=radical)](https://github.com/d-hung-nguyen/github-readme-stats)
 
 ## 📫 How to Reach Me
 
