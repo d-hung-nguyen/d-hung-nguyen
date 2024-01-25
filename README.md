@@ -6,27 +6,108 @@ I'm a passionate hotelier with expertise in Sales & Marketing, Revenue Managemen
 
 ## 🔧 Skills
 
-- **Programming Languages:** [html]
-- **Web Technologies:** [List Web Technologies]
-- **Database:** [List Database Systems]
-- **Frameworks:** [List Frameworks]
-- **Other Skills:** [List Other Relevant Skills]
+-**Programming Languages:**
+  1. HTML
+  2. JavaScript
+
+- **Web Technologies:**
+  1. React
+  2. Angular
+
+- **Database Systems:**
+  1. MySQL
+  2. PostgreSQL
+  3. MongoDB
+
+- **Frameworks:**
+  1. Node.js
+  2. Express.js
+  3. Django
+  4. Spring Boot
+
+- **Other Relevant Skills:**
+  1. Version Control (e.g., Git)
+  2. RESTful API Design
+  3. Responsive Web Design
+  4. Front-end Libraries (e.g., Bootstrap)
+  5. Testing Frameworks (e.g., Jest)
+  6. Build Tools (e.g., Webpack)
+  7. Package Managers (e.g., npm, yarn
 
 ## 🚀 Projects
 
-### [Project Name]
-- Description: [Brief Description of the Project]
-- Technologies Used: [List Technologies Used]
-- GitHub Repository: [Link to GitHub Repo]
+### nestbox
 
-### [Another Project]
-- Description: [Brief Description]
-- Technologies Used: [List Technologies]
-- GitHub Repository: [Link to GitHub Repo]
+
+### staynergie
+
 
 ## 🌱 Currently Learning
 
-[List Topics or Technologies You're Currently Learning]
+## Shell
+- Unix Commands
+- Git
+
+## HTML
+- Semantic Elements
+- Forms and Inputs
+- Responsive Web Design
+- Accessibility
+
+## CSS
+- Selectors
+- Specificity
+- Conventions
+- Media Queries
+- Layout
+- Tooling
+- Frameworks
+- Animations
+
+## JavaScript
+- ECMAScript (latest)
+- Events
+- DOM-Manipulation
+- Browser APIs
+- Array-Methods
+- Promises
+- Async Programming
+- Tooling
+- Debugging
+- Testing
+
+## Backend
+- Node.js
+- RESTful APIs
+- Routing
+- DB Schemas and Models
+- Tooling
+- Deployment
+
+## Tools
+- VSCode
+- Slack
+- Zoom
+- Github Projects
+
+## React (latest)
+- Function Components
+- Hooks
+- Routing
+- State Management
+- CSS in JS
+- Fetching APIs
+
+## Further Teaching Contents
+- Clean Code
+- Pair Programming
+- Working in Teams
+- Development Workflow
+- Research
+- UX/UI Basics
+- Agile Methods
+- Product Development
+
 
 ## 📈 GitHub Stats
 
@@ -34,12 +115,12 @@ I'm a passionate hotelier with expertise in Sales & Marketing, Revenue Managemen
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- **Email:** your.email@example.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BqO0Kj3G0RDer0qTxCqi%2Bpw%3D%3D)
+- **Email:** nd.hung@me.com
 
 ## 🌐 Portfolio
 
-Check out my portfolio: [Your Portfolio Website](https://www.yourportfolio.com)
+Coming soon.
 
 Thanks for visiting! 😊
 
