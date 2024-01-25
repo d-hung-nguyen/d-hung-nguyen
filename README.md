@@ -6,8 +6,12 @@ I'm a passionate hotelier with expertise in Sales & Marketing, Revenue Managemen
 
 ## 🔧 Skills
 
-### Programming Languages: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
-
+### Programming Languages: | Web Technologies: | Database Systems: | Frameworks: | Other Relevant Skills:
+- HTML                  | - React             | - MySQL             | - Node.js    | - Version Control (e.g., Git)
+- JavaScript            | - Angular           | - PostgreSQL        | - Express.js | - RESTful API Design
+                       |                     | - MongoDB           | - Django      | - Responsive Web Design
+                       |                     |                     | - Spring Boot | - Front-end Libraries (e.g., Bootstrap)
+                       |                     |                     |              | - Testing Frameworks (e.g., Jest
 
 ## 🚀 Projects
 
@@ -19,69 +23,15 @@ I'm a passionate hotelier with expertise in Sales & Marketing, Revenue Managemen
 
 ## 🌱 Currently Learning
 
-## Shell
-- Unix Commands
-- Git
-
-## HTML
-- Semantic Elements
-- Forms and Inputs
-- Responsive Web Design
-- Accessibility
-
-## CSS
-- Selectors
-- Specificity
-- Conventions
-- Media Queries
-- Layout
-- Tooling
-- Frameworks
-- Animations
-
-## JavaScript
-- ECMAScript (latest)
-- Events
-- DOM-Manipulation
-- Browser APIs
-- Array-Methods
-- Promises
-- Async Programming
-- Tooling
-- Debugging
-- Testing
-
-## Backend
-- Node.js
-- RESTful APIs
-- Routing
-- DB Schemas and Models
-- Tooling
-- Deployment
-
-## Tools
-- VSCode
-- Slack
-- Zoom
-- Github Projects
-
-## React (latest)
-- Function Components
-- Hooks
-- Routing
-- State Management
-- CSS in JS
-- Fetching APIs
-
-## Further Teaching Contents
-- Clean Code
-- Pair Programming
-- Working in Teams
-- Development Workflow
-- Research
-- UX/UI Basics
-- Agile Methods
-- Product Development
+### Shell | HTML | CSS | JavaScript | Backend | Tools | React (latest) | Further Teaching Contents
+- Unix Commands | - Semantic Elements | - Selectors | - ECMAScript (latest) | - Node.js | - VSCode | - Function Components | - Clean Code
+- Git | - Forms and Inputs | - Specificity | - Events | - RESTful APIs | - Slack | - Hooks | - Pair Programming
+ | - Responsive Web Design | - Conventions | - DOM-Manipulation | - Routing | - Zoom | - Routing | - Working in Teams
+ | - Accessibility | - Media Queries | - Tooling | - Browser APIs | - DB Schemas and Models | - Github Projects | - State Management | - Development Workflow
+ | | | - Layout | - Array-Methods | - Tooling | | - CSS in JS | - Research
+ | | | - Animations | - Promises | - Deployment | | - Fetching APIs | - UX/UI Basics
+ | | | | - Async Programming | | | - Debugging | - Agile Methods
+ | | | | - Tooling | | | - Testing | - Product Development
 
 
 ## 📈 GitHub Stats
