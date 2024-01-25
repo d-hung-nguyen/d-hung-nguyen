@@ -32,16 +32,16 @@ I'm a passionate hotelier with expertise in Sales & Marketing, Revenue Managemen
 |----------------------|------------------------|------------------------|---------------------------|----------------------|---------------------|--------------------------|-----------------------------|
 | Unix Commands        | Semantic Elements      | Selectors              | ECMAScript (latest)       | Node.js              | VSCode              | Function Components      | Clean Code                  |
 | Git                  | Forms and Inputs       | Specificity            | Events                    | RESTful APIs         | Slack               | Hooks                    | Pair Programming            |
-|                      | Responsive Web Design   | Conventions            | DOM-Manipulation           | Routing              | Zoom                | Routing                  | Working in Teams            |
-|                      | Accessibility          | Media Queries          | Tooling                   | Browser APIs         | DB Schemas and Models | CSS in JS                | Development Workflow        |
-|                      |                        | Layout                 | Array-Methods             | Tooling              |                      | Research                 |                             |
-|                      |                        | Animations             | Promises                  | Deployment           |                      | Fetching APIs            |                             |
-|                      |                        |                        | Async Programming         |                      |                      |                          |                             |
-|                      |                        |                        | Tooling                   |                      |                      | Debugging                |                             |
-|                      |                        |                        |                           |                      |                      | Testing                  |                             |
-|                      |                        |                        |                           |                      |                      |                          | UX/UI Basics                |
+|                      | Responsive Web Design   | Conventions            | DOM-Manipulation           | Routing              | Zoom                | Routing                | Working in Teams            |
+|                      | Accessibility          | Media Queries          | Tooling                   | Browser APIs         | DB Schemas and Models | CSS in JS              | Development Workflow        |
+|                      |                        | Layout                 | Array-Methods             | Tooling              |                      | Research                 | UX/UI Basics                |
 |                      |                        |                        |                           |                      |                      |                          | Agile Methods               |
-|                      |                        |                        |                           |                      |                      |                          | Product Development         |
+|                      |                        |                        |                           |                      |                      |                          | Product                              |
+|                      |                        | Animations             | Promises                  | Deployment           |                      | Fetching APIs            |                             |
+|                      |                        |                        | Async Programming         |                      |                      | Debugging                |                             |
+|                      |                        |                        |                           |                      |                      | Testing                  |                             |
+|                      |                        |                        | Tooling                   |                      |                      |                          |                             |
+|                      |                        |                        |                           |                      |                      |                          |        |
 
 
 
