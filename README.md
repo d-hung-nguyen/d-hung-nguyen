@@ -27,8 +27,7 @@ I'm a passionate hotelier with expertise in Sales & Marketing, Revenue Managemen
 
 
 ## 🌱 **Currently Learning**
-
-##| **Shell**            | **HTML**               | **CSS**                | **JavaScript**           | **Backend**          | **Tools**           | **React (latest)**      | **Further Teaching Contents**   |
+| **Shell**            | **HTML**               | **CSS**                | **JavaScript**           | **Backend**          | **Tools**           | **React (latest)**      | **Further Teaching Contents**   |
 |----------------------|------------------------|------------------------|---------------------------|----------------------|---------------------|--------------------------|-----------------------------|
 | Unix Commands        | Semantic Elements      | Selectors              | ECMAScript (latest)       | Node.js              | VSCode              | Function Components      | Clean Code                  |
 | Git                  | Forms and Inputs       | Specificity            | Events                    | RESTful APIs         | Slack               | Hooks                    | Pair Programming            |
