@@ -6,33 +6,33 @@ I'm a passionate hotelier with expertise in Sales & Marketing, Revenue Managemen
 
 ## 🔧 Skills
 
--**Programming Languages:**
-  1. HTML
-  2. JavaScript
+### Programming Languages:
+1. HTML
+2. JavaScript
 
-- **Web Technologies:**
-  1. React
-  2. Angular
+### Web Technologies:
+1. React
+2. Angular
 
-- **Database Systems:**
-  1. MySQL
-  2. PostgreSQL
-  3. MongoDB
+### Database Systems:
+1. MySQL
+2. PostgreSQL
+3. MongoDB
 
-- **Frameworks:**
-  1. Node.js
-  2. Express.js
-  3. Django
-  4. Spring Boot
+### Frameworks:
+1. Node.js
+2. Express.js
+3. Django
+4. Spring Boot
 
-- **Other Relevant Skills:**
-  1. Version Control (e.g., Git)
-  2. RESTful API Design
-  3. Responsive Web Design
-  4. Front-end Libraries (e.g., Bootstrap)
-  5. Testing Frameworks (e.g., Jest)
-  6. Build Tools (e.g., Webpack)
-  7. Package Managers (e.g., npm, yarn
+### Other Relevant Skills:
+- Version Control (e.g., Git)
+- RESTful API Design
+- Responsive Web Design
+- Front-end Libraries (e.g., Bootstrap)
+- Testing Frameworks (e.g., Jest)
+- Build Tools (e.g., Webpack)
+- Package Managers (e.g., npm, yarn)
 
 ## 🚀 Projects
 
