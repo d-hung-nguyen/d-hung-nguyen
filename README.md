@@ -4,9 +4,10 @@
 
 I'm a passionate hotelier with expertise in Sales & Marketing, Revenue Management, Reservations, F&B, MICE, and Events. Additionally, I have a strong background in technologies, particularly in programming and web development (both back-end and front-end). I enjoy tackling challenges and creating innovative solutions. My goal has always been to cultivate the precious rapport between the company I represent and the client.
 
-## 🔧 Skills
 
-| Programming Languages | Web Technologies | Database Systems | Frameworks       | Other Relevant Skills         |
+## 🔧 **Skills**
+
+| **Programming Languages** | **Web Technologies** | **Database Systems** | **Frameworks**       | **Other Relevant Skills**         |
 |------------------------|-------------------|-------------------|------------------|-------------------------------|
 | HTML                   | React             | MySQL             | Node.js          | Version Control (e.g., Git)  |
 | JavaScript             | Angular           | PostgreSQL        | Express.js       | RESTful API Design           |
@@ -16,6 +17,7 @@ I'm a passionate hotelier with expertise in Sales & Marketing, Revenue Managemen
 |                        |                   |                   |                  | Build Tools (e.g., Webpack)         |
 |                        |                   |                   |                  | Package Managers (e.g., npm, yarn)  |
 
+
 ## 🚀 Projects
 
 ### nestbox
@@ -24,9 +26,9 @@ I'm a passionate hotelier with expertise in Sales & Marketing, Revenue Managemen
 ### staynergie
 
 
-## 🌱 Currently Learning
+## 🌱 **Currently Learning**
 
-| Shell                | HTML                   | CSS                    | JavaScript                | Backend              | Tools               | React (latest)          | Further Teaching Contents   |
+| **Shell**            | **HTML**               | **CSS**                | **JavaScript**           | **Backend**          | **Tools**           | **React (latest)**      | **Further Teaching Contents**   |
 |----------------------|------------------------|------------------------|---------------------------|----------------------|---------------------|--------------------------|-----------------------------|
 | Unix Commands        | Semantic Elements      | Selectors              | ECMAScript (latest)       | Node.js              | VSCode              | Function Components      | Clean Code                  |
 | Git                  | Forms and Inputs       | Specificity            | Events                    | RESTful APIs         | Slack               | Hooks                    | Pair Programming            |
