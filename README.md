@@ -1,28 +1,45 @@
-Hey there! 👋 I'm Hung, a Sales & Marketing professional from Frankfurt am Main. I love exploring new technologies, drill down into and create useful workflows so to contribute  to my organization.
+# Hello, I'm Duy Hung. Feel me to call me either Duy |dʒui| or Hung |hʌŋ| 👋
 
-<a href="https://ibb.co/3p2cmyd"><img src="https://i.ibb.co/dPFD40M/Screenshot-2024-01-08-at-16-53-40.png" alt="Screenshot-2024-01-08-at-16-53-40" border="0"></a>
+## About Me
 
-## About me
+I'm a passionate hotelier with expertise in Sales & Marketing, Revenue Management, Reservations, F&B, MICE, and Events. Additionally, I have a strong background in technologies, particularly in programming and web development (both back-end and front-end). I enjoy tackling challenges and creating innovative solutions. My goal has always been to cultivate the precious rapport between the company I represent and the client.
 
-Here's a litte about me:
+## 🔧 Skills
 
-- 🌐 Currently surviving an intensive Bootcamp for Web development at neue fische trying to learn those things<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /> 
- <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /> <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-- 💡 Hopefully will  turn data into beautiful websites and apps 🤢
-- 📚 Always on the quest for knowledge; my brain is a sponge, and tech is my favorite flavor.
-- 🎓 Boasting a robust 20-year background in the hotel industry – because debugging code is a lot like managing a hotel: you fix problems, smile, and hope nobody notices the mess behind the scenes.
+- **Programming Languages:** [List Programming Languages]
+- **Web Technologies:** [List Web Technologies]
+- **Database:** [List Database Systems]
+- **Frameworks:** [List Frameworks]
+- **Other Skills:** [List Other Relevant Skills]
 
-|Kurz & knapp||
-|------------------|------------------------------|
-| Location| Frankfurt am Main|
-| Occupation| Sales & Marketing|
-|Current Project| Bootcamp neue fische|
-|Sprachen| Vietnamese, English, German, Chinese|
-| Hobbby|eat, eat & eat|
+## 🚀 Projects
 
+### [Project Name]
+- Description: [Brief Description of the Project]
+- Technologies Used: [List Technologies Used]
+- GitHub Repository: [Link to GitHub Repo]
 
-<!---
-d-hung-nguyen/d-hung-nguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### [Another Project]
+- Description: [Brief Description]
+- Technologies Used: [List Technologies]
+- GitHub Repository: [Link to GitHub Repo]
+
+## 🌱 Currently Learning
+
+[List Topics or Technologies You're Currently Learning]
+
+## 📈 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 How to Reach Me
+
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- **Email:** your.email@example.com
+
+## 🌐 Portfolio
+
+Check out my portfolio: [Your Portfolio Website](https://www.yourportfolio.com)
+
+Thanks for visiting! 😊
+
