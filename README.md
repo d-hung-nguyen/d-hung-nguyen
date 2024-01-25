@@ -6,12 +6,15 @@ I'm a passionate hotelier with expertise in Sales & Marketing, Revenue Managemen
 
 ## 🔧 Skills
 
-### Programming Languages: | Web Technologies: | Database Systems: | Frameworks: | Other Relevant Skills:
-- HTML                  | - React             | - MySQL             | - Node.js    | - Version Control (e.g., Git)
-- JavaScript            | - Angular           | - PostgreSQL        | - Express.js | - RESTful API Design
-                       |                     | - MongoDB           | - Django      | - Responsive Web Design
-                       |                     |                     | - Spring Boot | - Front-end Libraries (e.g., Bootstrap)
-                       |                     |                     |              | - Testing Frameworks (e.g., Jest
+| Programming Languages | Web Technologies | Database Systems | Frameworks       | Other Relevant Skills         |
+|------------------------|-------------------|-------------------|------------------|-------------------------------|
+| HTML                   | React             | MySQL             | Node.js          | Version Control (e.g., Git)  |
+| JavaScript             | Angular           | PostgreSQL        | Express.js       | RESTful API Design           |
+|                        |                   | MongoDB           | Django           | Responsive Web Design        |
+|                        |                   |                   | Spring Boot      | Front-end Libraries (e.g., Bootstrap) |
+|                        |                   |                   |                  | Testing Frameworks (e.g., Jest)      |
+|                        |                   |                   |                  | Build Tools (e.g., Webpack)         |
+|                        |                   |                   |                  | Package Managers (e.g., npm, yarn)  |
 
 ## 🚀 Projects
 
@@ -23,15 +26,21 @@ I'm a passionate hotelier with expertise in Sales & Marketing, Revenue Managemen
 
 ## 🌱 Currently Learning
 
-### Shell | HTML | CSS | JavaScript | Backend | Tools | React (latest) | Further Teaching Contents
-- Unix Commands | - Semantic Elements | - Selectors | - ECMAScript (latest) | - Node.js | - VSCode | - Function Components | - Clean Code
-- Git | - Forms and Inputs | - Specificity | - Events | - RESTful APIs | - Slack | - Hooks | - Pair Programming
- | - Responsive Web Design | - Conventions | - DOM-Manipulation | - Routing | - Zoom | - Routing | - Working in Teams
- | - Accessibility | - Media Queries | - Tooling | - Browser APIs | - DB Schemas and Models | - Github Projects | - State Management | - Development Workflow
- | | | - Layout | - Array-Methods | - Tooling | | - CSS in JS | - Research
- | | | - Animations | - Promises | - Deployment | | - Fetching APIs | - UX/UI Basics
- | | | | - Async Programming | | | - Debugging | - Agile Methods
- | | | | - Tooling | | | - Testing | - Product Development
+| Shell                | HTML                   | CSS                    | JavaScript                | Backend              | Tools               | React (latest)          | Further Teaching Contents   |
+|----------------------|------------------------|------------------------|---------------------------|----------------------|---------------------|--------------------------|-----------------------------|
+| Unix Commands        | Semantic Elements      | Selectors              | ECMAScript (latest)       | Node.js              | VSCode              | Function Components      | Clean Code                  |
+| Git                  | Forms and Inputs       | Specificity            | Events                    | RESTful APIs         | Slack               | Hooks                    | Pair Programming            |
+|                      | Responsive Web Design   | Conventions            | DOM-Manipulation           | Routing              | Zoom                | Routing                  | Working in Teams            |
+|                      | Accessibility          | Media Queries          | Tooling                   | Browser APIs         | DB Schemas and Models | CSS in JS                | Development Workflow        |
+|                      |                        | Layout                 | Array-Methods             | Tooling              |                      | Research                 |                             |
+|                      |                        | Animations             | Promises                  | Deployment           |                      | Fetching APIs            |                             |
+|                      |                        |                        | Async Programming         |                      |                      |                          |                             |
+|                      |                        |                        | Tooling                   |                      |                      | Debugging                |                             |
+|                      |                        |                        |                           |                      |                      | Testing                  |                             |
+|                      |                        |                        |                           |                      |                      |                          | UX/UI Basics                |
+|                      |                        |                        |                           |                      |                      |                          | Agile Methods               |
+|                      |                        |                        |                           |                      |                      |                          | Product Development         |
+
 
 
 ## 📈 GitHub Stats
