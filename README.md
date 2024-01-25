@@ -6,7 +6,7 @@ I'm a passionate hotelier with expertise in Sales & Marketing, Revenue Managemen
 
 ## 🔧 Skills
 
-- **Programming Languages:** [List Programming Languages]
+- **Programming Languages:** [html]
 - **Web Technologies:** [List Web Technologies]
 - **Database:** [List Database Systems]
 - **Frameworks:** [List Frameworks]
