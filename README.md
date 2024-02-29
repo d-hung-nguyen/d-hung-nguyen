@@ -46,8 +46,7 @@ I'm a passionate hotelier with expertise in Sales & Marketing, Revenue Managemen
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BqO0Kj3G0RDer0qTxCqi%2Bpw%3D%3D)
-- **Email:** nd.hung@me.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BqO0Kj3G0RDer0qTxCqi%2Bpw%
 
 ## 🌐 Portfolio
 
