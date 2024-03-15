@@ -1,5 +1,3 @@
-Hi there! I'm Duy Hung, but feel free to call me Duy |dʒui| or Hung |hʌŋ|. Thanks for stopping by!
-
 ## 🤵 About Me
 I bring to the table a unique blend of expertise in the hospitality industry and tech. With a strong foundation in Sales & Marketing, Revenue Management, Reservations, F&B, MICE, and Events, I've also carved out a niche in tech with my skills in programming and web development. I thrive on challenges and am dedicated to fostering strong connections between the businesses I work with and their clients.
 
